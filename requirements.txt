@@ -1,0 +1,6 @@
+Django==4.2  # Replace with your Django version
+django-tenant-schemas==1.10.0  # Or other multi-tenancy package you are using
+psycopg2-binary==2.9.8  # If using PostgreSQL
+djangorestframework==3.14.0  # If using Django REST Framework
+pillow==10.0.1  # For image handling
+django-environ==0.10.0  # For environment variable management
